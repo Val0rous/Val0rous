@@ -65,7 +65,7 @@
       <div align="center">
             <picture>
                   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=buefy" width="500" />
-                  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=tokyonight" width="500" />
+                  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=tokyonight" width="500" />
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&layout=donut-vertical&theme=buefy" width="500" />
             </picture>
       </div>

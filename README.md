@@ -77,7 +77,7 @@
       
 </div>
 
-# 📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true" /></a>
+# 📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a>
 <div>
       <div align="center">
             <picture>

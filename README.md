@@ -12,8 +12,13 @@
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <!--
-      <a href="https://t.me/<username>">
+      <a href="https://t.me/{username}">
            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+      -->
+      <!--
+      <a href="https://www.kaggle.com/francescovalentini">
+            <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
       </a>
       -->
 </div>
@@ -53,7 +58,26 @@
       <img alt="BASH" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" />
 </div>
 
-# 📈 GitHub Stats
+# 💻 My Tech Stack
+<div align="center">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+      <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+      <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+      <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+      <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+      
+</div>
+
+# 📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true" /></a>
 <div>
       <div align="center">
             <picture>
@@ -67,6 +91,20 @@
                   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=buefy" width="500" />
                   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=tokyonight" width="500" />
                   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&layout=donut-vertical&theme=buefy" width="500" />
+            </picture>
+      </div>
+      <div align="center">
+            <picture>
+                  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Val0rous&theme=vue" width="500" />
+                  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Val0rous&theme=tokyonight" width="500" />
+                  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Val0rous&theme=vue" width="500" />
+            </picture>
+      </div>
+      <div align="center">
+            <picture>
+                  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat" width="500" />
+                  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=discord" width="500" />
+                  <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat" width="500" />
             </picture>
       </div>
 </div>

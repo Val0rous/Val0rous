@@ -9,7 +9,7 @@
 </div>
 
 <h4 align="center">
-    Computer Science and Engineering Student 👨🏽‍💻
+    Computer Science and Software Engineering Student 👨🏽‍💻
 </h4>
 <h4 align="center">
     Tech enthusiast with a curious mind ⚡
@@ -212,7 +212,7 @@
     </picture>
 </div>
 
-<h2>📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a></h2>
+## 📈 GitHub Stats <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a>
 <div>
     <div align="center">
         <picture>
@@ -223,11 +223,12 @@
     </div>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=buefy" width="500" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=5&layout=donut&theme=tokyonight" width="500" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&layout=donut-vertical&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight" width="500" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
         </picture>
     </div>
+    <!--
     <div align="center">
         <picture>
             <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Val0rous&theme=vue" width="500" />
@@ -235,14 +236,27 @@
             <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Val0rous&theme=vue" width="500" />
         </picture>
     </div>
+    -->
+    <!--
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat" width="500" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=discord" width="500" />
-            <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat" width="500" />
+            <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Val0rous&theme=vue" width="500" />
+            <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Val0rous&theme=tokyonight" width="500" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Val0rous&theme=vue" width="500" />
         </picture>
     </div>
+    -->
 </div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&row=3" width="500" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=discord&row=3" width="500" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&row=3" width="500" />
+    </picture>
+</div>
+
 <!--- light theme: buefy --->
 <!--- dark theme: tokyonight --->
 <!--- former background gradient: bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff --->

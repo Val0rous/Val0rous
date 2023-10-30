@@ -96,9 +96,9 @@ Tech Enthusiast since ...
         <img alt="SASS" src="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/MySQL-212121.svg" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="assets/MySQL-F5F5F5.svg" height="32" />
-        <img alt="MySQL" src="assets/MySQL-F5F5F5.svg" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=E58E01" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=E58E01" height="32" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=E58E01" height="32" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp" height="32" />

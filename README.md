@@ -106,6 +106,11 @@ Tech Enthusiast since ...
         <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHPMyAdmin-212121?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+        <img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" height="32" />
         <img alt="Java" src="assets/Java-F5F5F5.svg" height="32" />

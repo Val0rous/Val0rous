@@ -4,12 +4,12 @@
       <style>
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
-           2% { transform: rotate(14.0deg) }
-           4% { transform: rotate(-8.0deg) }
-           6% { transform: rotate(14.0deg) }
-           8% { transform: rotate(-4.0deg) }
-           10% { transform: rotate(10.0deg) }
-           12% { transform: rotate( 0.0deg) }
+           4% { transform: rotate(14.0deg) }
+           8% { transform: rotate(-8.0deg) }
+           12% { transform: rotate(14.0deg) }
+           16% { transform: rotate(-4.0deg) }
+           20% { transform: rotate(10.0deg) }
+           24% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
 
@@ -47,7 +47,7 @@
         }
 
         .hi {
-          animation: hi 7.5s linear /*-0.5s*/ infinite; /*1.5s*/
+          animation: hi 3.75s linear /*-0.5s*/ infinite; /*1.5s*/
           display: inline-block;
           transform-origin: 70% 70%;
         }

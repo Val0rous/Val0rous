@@ -8,7 +8,16 @@
     <img src="assets/hello.svg" width="100%">
 </div>
 
-### <div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
+<h4 align="center">
+    <p>Computer Science and Engineering Student 👨🏽‍💻</p>
+    <p>Tech enthusiast with a curious mind ⚡</p>
+</h4>
+
+<blockquote align="center" width="200">
+    Ideas are the rain in the desert of creativity: sometimes you need an umbrella to avoid getting soaked ☔
+</blockquote>
+
+<br/>
 
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
@@ -31,9 +40,9 @@
 
 <br/>
 
-🧠 **Currently learning:** `Cryptography 🔐`  
+🧠 **Currently learning:**  `Cryptography 🔐`  
 
-💡 **Interested in:** `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒`
+💡 **Interested in:**  `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒` `Web Development 🌐`
 
 <!--
 ## ⚡ My Skill Set

@@ -251,9 +251,9 @@
 ## 🏆 GitHub Trophies
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&row=3" width="500" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=discord&row=3" width="500" />
-        <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&row=3" width="500" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&column=-1&margin-w=15&margin-h=15&no-frame=true" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=discord&column=-1&margin-w=15&margin-h=15&no-frame=true" width="100%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&column=-1&margin-w=15&margin-h=15&no-frame=true" width="100%" />
     </picture>
 </div>
 

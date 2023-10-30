@@ -61,8 +61,6 @@
 <div align="center">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
     <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
 ### Languages
@@ -126,6 +124,16 @@
         <source media="(prefers-color-scheme: dark)" srcset="assets/MATLAB-212121.svg" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="assets/MATLAB-F5F5F5.svg" height="32" />
         <img alt="MATLAB" src="assets/MATLAB-F5F5F5.svg" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-212121?style=for-the-badge&logo=c" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-F5F5F5?style=for-the-badge&logo=c" height="32" />
+        <img alt="C" src="https://img.shields.io/badge/C-F5F5F5?style=for-the-badge&logo=c" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
+        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
     </picture>
 </div>
 

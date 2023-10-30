@@ -63,7 +63,7 @@ Tech Enthusiast since ...
 <div align="center">
 </div>
 
-### Languages
+#### Languages
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5&logoColor=E34F26" height="32" />
@@ -81,24 +81,9 @@ Tech Enthusiast since ...
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQuery-212121?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
-    </picture>
-    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php&logoColor=777BB4" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php&logoColor=777BB4" height="32" />
         <img alt="PHP" src="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php&logoColor=777BB4" height="32" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sass-212121?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
-        <img alt="SASS" src="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
@@ -114,11 +99,6 @@ Tech Enthusiast since ...
         <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" height="32" />
         <img alt="Java" src="assets/Java-F5F5F5.svg" height="32" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Junit5-212121?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
-        <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/Python-212121.svg" height="32" />
@@ -141,11 +121,6 @@ Tech Enthusiast since ...
         <img alt="C#" src="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp&logoColor=512BD4" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NUnit3-212121?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NUnit3-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
-        <img alt="NUnit3" src="https://img.shields.io/badge/NUnit-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
-    </picture>
-    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
         <img alt="Markdown" src="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
@@ -155,10 +130,57 @@ Tech Enthusiast since ...
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
         <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
     </picture>
+</div>
+
+#### Frameworks · Libraries · Pre-processors
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQuery-212121?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sass-212121?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
+        <img alt="SASS" src="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass&logoColor=CC6699" height="32" />
+    </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/JavaFX-212121.svg" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="assets/JavaFX-F5F5F5.svg" height="32" />
         <img alt="JavaFX" src="assets/JavaFX-F5F5F5.svg" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Junit5-212121?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
+        <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5&logoColor=25A162" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NUnit3-212121?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NUnit3-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
+        <img alt="NUnit3" src="https://img.shields.io/badge/NUnit-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
+    </picture>
+</div>
+
+#### Database
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
+    </picture>
+</div>
+
+#### Version Control
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-212121?style=for-the-badge&logo=git&logoColor=F05032" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-F5F5F5?style=for-the-badge&logo=git&logoColor=F05032" height="32" />
+        <img alt="Git" src="https://img.shields.io/badge/Git-F5F5F5?style=for-the-badge&logo=git&logoColor=F05032" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" height="32" />
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" height="32" />
     </picture>
 </div>
 

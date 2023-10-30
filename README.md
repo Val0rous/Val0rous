@@ -29,6 +29,7 @@
 
 💡 **Interested in:** `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒`
 
+<!--
 # ⚡ My Skill Set
 <div align="center">
     <picture>
@@ -56,6 +57,7 @@
     <img alt="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" />
     <img alt="BASH" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" />
 </div>
+-->
 
 # 💻 Tech Stack
 <div align="center">

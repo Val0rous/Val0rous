@@ -136,6 +136,11 @@ Tech Enthusiast since ...
         <img alt="C#" src="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp&logoColor=239120" height="32" />
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NUnit3-212121?style=for-the-badge&logo=nuget" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NUnit3-F5F5F5?style=for-the-badge&logo=nuget" height="32" />
+        <img alt="NUnit3" src="https://img.shields.io/badge/NUnit-F5F5F5?style=for-the-badge&logo=nuget" height="32" />
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
         <img alt="Markdown" src="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />

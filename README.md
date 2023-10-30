@@ -80,9 +80,9 @@
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=css3">
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3">
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=css3&logoColor=1572B6">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript">

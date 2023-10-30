@@ -9,13 +9,11 @@
 </div>
 
 <h4 align="center">
-    <p>Computer Science and Engineering Student 👨🏽‍💻</p>
-    <p>Tech enthusiast with a curious mind ⚡</p>
+    Computer Science and Engineering Student 👨🏽‍💻
 </h4>
-
-<blockquote align="center" width="200">
-    Ideas are the rain in the desert of creativity: sometimes you need an umbrella to avoid getting soaked ☔
-</blockquote>
+<h4 align="center">
+    Tech enthusiast with a curious mind ⚡
+</h4>
 
 <br/>
 
@@ -37,6 +35,12 @@
     </a>
     -->
 </div>
+
+<br/>
+
+<blockquote align="left" width="200">
+    Ideas are the rain in the desert of creativity: sometimes you need an umbrella to avoid getting soaked ☔
+</blockquote>
 
 <br/>
 

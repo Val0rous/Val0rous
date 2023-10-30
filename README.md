@@ -59,8 +59,6 @@
 
 # 💻 Tech Stack
 <div align="center">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-    <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
 ### Languages
@@ -131,9 +129,19 @@
         <img alt="C" src="https://img.shields.io/badge/C-F5F5F5?style=for-the-badge&logo=c" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
-        <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp" height="32" />
+        <img alt="C#" src="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown" height="32" />
+        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Shell_Script-212121?style=for-the-badge&logo=gnu-bash" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash" height="32" />
+        <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash" height="32" />
     </picture>
 </div>
 

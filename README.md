@@ -139,9 +139,9 @@
         <img alt="Markdown" src="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Shell_Script-212121?style=for-the-badge&logo=gnu-bash" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash" height="32" />
-        <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Shell_Script-212121?style=for-the-badge&logo=gnu-bash&logoColor=white" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
+        <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
     </picture>
 </div>
 

@@ -30,7 +30,7 @@
 💡 **Interested in:** `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒`
 
 <!--
-# ⚡ My Skill Set
+## ⚡ My Skill Set
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
@@ -59,7 +59,7 @@
 </div>
 -->
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
 </div>
 
@@ -188,7 +188,7 @@
     </picture>
 </div>
 
-# 📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a>
+<h2>📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a></h2>
 <div>
     <div align="center">
         <picture>

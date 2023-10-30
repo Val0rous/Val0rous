@@ -2,6 +2,10 @@
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
 
+<div align="center">
+    <img src="assets/hello.svg" width="100%">
+</div>
+
 ### <div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
 
 <div align="center">

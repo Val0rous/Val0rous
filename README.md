@@ -2,14 +2,14 @@
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
 
-<h3><div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div></h3>
+<div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
 
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
     </a>
     <a href="https://www.linkedin.com/in/francesco--valentini/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
     </a>
     <!--
     <a href="https://t.me/{username}" target="_blank">

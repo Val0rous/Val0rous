@@ -88,6 +88,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript">
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript">
+        </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" />

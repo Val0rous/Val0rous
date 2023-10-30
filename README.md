@@ -143,6 +143,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
         <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-F5F5F5?style=for-the-badge&logo=gnu-bash&logoColor=black" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/JavaFX-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/JavaFX-F5F5F5.svg" height="32" />
+        <img alt="JavaFX" src="assets/JavaFX-F5F5F5.svg" height="32" />
+    </picture>
 </div>
 
 # 📈 GitHub Stats  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a>

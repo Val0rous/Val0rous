@@ -4,8 +4,6 @@
 
 ### <div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
 
-Tech Enthusiast since ...
-
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
@@ -86,16 +84,6 @@ Tech Enthusiast since ...
         <img alt="PHP" src="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php&logoColor=777BB4" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
-        <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHPMyAdmin-212121?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
-        <img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
-    </picture>
-    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" height="32" />
         <img alt="Java" src="assets/Java-F5F5F5.svg" height="32" />
@@ -167,6 +155,20 @@ Tech Enthusiast since ...
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
+    </picture>
+</div>
+
+#### Backend Tools
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
+        <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp&logoColor=FB7A24" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHPMyAdmin-212121?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+        <img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
     </picture>
 </div>
 

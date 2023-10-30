@@ -68,64 +68,64 @@
 ### Languages
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5" />
-        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5" height="32" />
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=css3&logoColor=1572B6" />
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6" />
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=css3&logoColor=1572B6" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6" height="32" />
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3&logoColor=1572B6" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript" height="32" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQuery-212121?style=for-the-badge&logo=jquery&logoColor=0769AD" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery%logoColor=0769AD" />
-        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQuery-212121?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery%logoColor=0769AD" height="32" />
+        <img alt="jQuery" src="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php" />
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-212121?style=for-the-badge&logo=php" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php" height="32" />
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-F5F5F5?style=for-the-badge&logo=php" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sass-212121?style=for-the-badge&logo=sass" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass" />
-        <img alt="SASS" src="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Sass-212121?style=for-the-badge&logo=sass" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass" height="32" />
+        <img alt="SASS" src="https://img.shields.io/badge/Sass-F5F5F5?style=for-the-badge&logo=sass" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql" />
-        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql" height="32" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp" />
-        <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Xampp-212121?style=for-the-badge&logo=xampp" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp" height="32" />
+        <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F5F5F5?style=for-the-badge&logo=xampp" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" />
-        <img alt="Java" src="assets/Java-F5F5F5.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" height="32" />
+        <img alt="Java" src="assets/Java-F5F5F5.svg" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Junit5-212121?style=for-the-badge&logo=junit5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5" />
-        <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Junit5-212121?style=for-the-badge&logo=junit5" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5" height="32" />
+        <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-F5F5F5?style=for-the-badge&logo=junit5" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/Python-212121.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="assets/Python-F5F5F5.svg" />
-        <img alt="Python" src="assets/Python-F5F5F5.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Python-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Python-F5F5F5.svg" height="32" />
+        <img alt="Python" src="assets/Python-F5F5F5.svg" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/MATLAB-212121.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="assets/MATLAB-F5F5F5.svg" />
-        <img alt="MATLAB" src="assets/MATLAB-F5F5F5.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/MATLAB-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/MATLAB-F5F5F5.svg" height="32" />
+        <img alt="MATLAB" src="assets/MATLAB-F5F5F5.svg" height="32" />
     </picture>
 </div>
 

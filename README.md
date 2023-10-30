@@ -84,7 +84,7 @@
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/jQuery-212121?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery%logoColor=0769AD" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
         <img alt="jQuery" src="https://img.shields.io/badge/jQuery-F5F5F5?style=for-the-badge&logo=jquery&logoColor=0769AD" height="32" />
     </picture>
     <picture>

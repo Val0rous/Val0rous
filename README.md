@@ -2,7 +2,9 @@
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
 
-<div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
+### <div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
+
+Tech Enthusiast since ...
 
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
@@ -13,12 +15,12 @@
     </a>
     <!--
     <a href="https://t.me/{username}" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" />
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" />
     </a>
     -->
     <!--
     <a href="https://www.kaggle.com/francescovalentini" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="32" />
+        <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="32" />
     </a>
     -->
 </div>

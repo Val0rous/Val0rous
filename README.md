@@ -1,6 +1,8 @@
+<!--
 <div align="center">
     <img src="assets/greetings.gif" align="center" height="" width="500" />
 </div>
+-->
 
 <div align="center">
     <img src="assets/hello.svg" width="100%">

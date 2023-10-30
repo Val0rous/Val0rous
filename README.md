@@ -4,7 +4,7 @@
 
 ### <div align="center" width="200">I'm Francesco, a 22 y/o Computer Science & Software Engineering student who has always been curious about all things IT.</div>
 
-<div align="center">
+<p align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
     </a>
@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="32" />
     </a>
     -->
-</div>
+</p>
 
 <br/>
 

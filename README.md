@@ -68,9 +68,6 @@
     <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 </div>
@@ -82,6 +79,15 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5">
         <img alt="HTML5" src="https://img.shields.io/badge/HTML5-F5F5F5?style=for-the-badge&logo=html5">
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-212121?style=for-the-badge&logo=css3">
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-F5F5F5?style=for-the-badge&logo=css3">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-212121?style=for-the-badge&logo=javascript">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript">
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F5F5F5?style=for-the-badge&logo=javascript">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/Java-212121.svg" />
         <source media="(prefers-color-scheme: light)" srcset="assets/Java-F5F5F5.svg" />

@@ -252,6 +252,8 @@
     -->
 </div>
 
+<!-- &custom_title={word1}+{word2}&text_color={ffffff}&title_color={ffffff}&icon_color={ffffff} -->
+
 ## 🏆 GitHub Trophies
 <div align="center">
     <picture>

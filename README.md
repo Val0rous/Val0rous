@@ -34,10 +34,18 @@
     </a>
     <br/>
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
-        <img alt="Email" src="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
+            <img alt="Email" src="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
+        </picture>
     </a>
     <a href="https://www.linkedin.com/in/francesco--valentini/" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
+            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
+            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
+        </picture>
     </a>
     <!--
     <a href="https://t.me/{username}" target="_blank">

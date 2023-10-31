@@ -216,16 +216,16 @@
 <div>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=buefy" width="500" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" width="500" />
-            <img src="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=buefy" width="50%" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" width="50%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&theme=buefy" width="50%" />
         </picture>
     </div>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight" width="500" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="50%" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight" width="50%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="50%" />
         </picture>
     </div>
     <!--

@@ -259,12 +259,11 @@
 
 ---
 
-[//]: # "![Visitor Count](https://profile-counter.glitch.me/Val0rous/count.svg)"
+<div align="center">
+    <img alt="Visitor-Count" src="https://profile-counter.glitch.me/Val0rous/count.svg" />
+</div>
 
-
-<a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!--- light theme: buefy --->
 <!--- dark theme: tokyonight --->

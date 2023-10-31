@@ -15,8 +15,6 @@
     Tech enthusiast with a curious mind ⚡
 </h4>
 
-<br/>
-
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
         <picture>
@@ -40,8 +38,6 @@
     -->
 </div>
 
-<br/>
-<hr/>
 <br/>
 
 <blockquote align="left" width="200">

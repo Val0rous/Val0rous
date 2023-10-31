@@ -212,20 +212,20 @@
     </picture>
 </div>
 
-## 📈 GitHub Stats <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=9&icon=0&pretty=true" /></a>
+## 📈 GitHub Stats
 <div>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=buefy" width="50%" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" width="50%" />
-            <img src="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&theme=buefy" width="50%" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&rank_icon=github&theme=tokyonight" width="500" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Val0rous&count_private=true&show_icons=true&theme=buefy" width="500" />
         </picture>
     </div>
     <div align="center">
         <picture>
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="50%" />
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight" width="50%" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="50%" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=tokyonight" width="500" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Val0rous&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact&theme=buefy" width="500" />
         </picture>
     </div>
     <!--
@@ -256,6 +256,15 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Val0rous&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=true" width="100%" />
     </picture>
 </div>
+
+---
+
+[//]: # "![Visitor Count](https://profile-counter.glitch.me/Val0rous/count.svg)"
+
+
+<a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 
 <!--- light theme: buefy --->
 <!--- dark theme: tokyonight --->

@@ -27,6 +27,7 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
     </a>
     <br/>
+    -->
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
     </a>
@@ -34,21 +35,6 @@
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
     </a>
     <br/>
-    -->
-    <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-212121?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
-            <img alt="Email" src="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=EA4335" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/francesco--valentini/" target="_blank">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
-            <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="32" />
-        </picture>
-    </a>
     <!--
     <a href="https://t.me/{username}" target="_blank">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" />

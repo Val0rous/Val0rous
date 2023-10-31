@@ -15,7 +15,7 @@
     Tech enthusiast with a curious mind ⚡
 </h4>
 
-<h6></h6>   <!-- Taking up a little space -->
+<br/>
 
 <div align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">

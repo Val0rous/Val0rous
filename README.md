@@ -15,7 +15,7 @@
     Tech enthusiast with a curious mind ⚡
 </h4>
 
-<h2 align="center">
+<h3 align="center">
     <a href="mailto:francesco.valentini-github@outlook.com" target="_blank">
         <picture>
             <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
@@ -36,7 +36,7 @@
         <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="32" />
     </a>
     -->
-</h2>
+</h3>
 
 <blockquote align="left" width="200">
     Ideas are the rain in the desert of creativity: sometimes you need an umbrella to avoid getting soaked ☔

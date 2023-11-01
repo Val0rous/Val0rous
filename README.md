@@ -271,6 +271,12 @@
 </div>
 -->
 
+<!--
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/Val0rous"/>  
+</div>
+-->
+
 [![](https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!--- light theme: buefy --->

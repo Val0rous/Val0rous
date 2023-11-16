@@ -148,6 +148,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Assembly_Script-F5F5F5?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" height="32" />
         <img alt="Assembly-Script" src="https://img.shields.io/badge/Assembly_Script-F5F5F5?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LaTeX-212121?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LaTeX-F5F5F5?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
+        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-F5F5F5?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
+    </picture>
 </div>
 
 #### Frameworks · Libraries · Pre-processors

@@ -207,6 +207,20 @@
     </picture>
 </div>
 
+#### Design Tools
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Figma-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Figma-F5F5F5.svg" height="32" />
+        <img alt="Figma" src="assets/Figma-F5F5F5.svg" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Balsamiq_Wireframes-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Balsamiq_Wireframes-F5F5F5.svg" height="32" />
+        <img alt="Figma" src="assets/Balsamiq_Wireframes-F5F5F5.svg" height="32" />
+    </picture>
+</div>
+
 #### Version Control
 <div>
     <picture>

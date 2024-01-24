@@ -48,7 +48,9 @@
 
 <br/>
 
+<!--
 🧠 **Currently learning:**  `Cryptography 🔐`  
+-->
 
 💡 **Interested in:**  `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒` `Web Development 🌐`
 

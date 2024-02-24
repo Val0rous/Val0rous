@@ -184,6 +184,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NUnit3-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
         <img alt="NUnit3" src="https://img.shields.io/badge/NUnit-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/PHPUnit-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/PHPUnit-F5F5F5.svg" height="32" />
+        <img alt="PHPUnit" src="assets/PHPUnit-F5F5F5.svg" height="32" />
+    </picture>
 </div>
 
 #### Database

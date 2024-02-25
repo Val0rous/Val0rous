@@ -50,6 +50,15 @@
           }
         }
 
+        @keyframes expand {
+          from {
+            width: 0;
+          }
+          to {
+            width: 85%;
+          }
+        }
+
         .container {
           --color-main: #5452ee;
           --color-primary: #e73c7e;
@@ -111,12 +120,23 @@
         h3:first-of-type {
           width: 0;
           margin-bottom: 12px;
-          animation: write 2s steps(49, end) 3.15s forwards;
+          animation: write 2s steps(49, end) 4.15s forwards;
         }
 
         h3:nth-of-type(2) {
           width: 0;
-          animation: write 2s steps(37, end) 5.15s forwards;
+          animation: write 2s steps(37, end) 6.15s forwards;
+        }
+
+        hr {
+          width: 0;
+          border: none;
+          background: linear-gradient(to right, #eeeeee, white, white, white, #eeeeee);
+          border-radius: 1px;
+          box-shadow: none;
+          height: 1.6px;
+          visibility: hidden;
+          animation: appear 0s ease 3s forwards, expand 1s ease 3s forwards;
         }
 
         @media (prefers-color-scheme: light) {
@@ -146,6 +166,7 @@
 
       <div class="container">
         <h1>Hi there, I'm Francesco! <div class="hi">👋</div></h1>
+        <hr/>
         <div class="centered">
           <h3>👨🏽‍💻  Computer Science &amp; Software Engineering Student</h3>
           <h3>⚡  Tech enthusiast with a curious mind</h3>

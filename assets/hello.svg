@@ -1,20 +1,21 @@
-<svg fill="none" viewBox="0 0 600 200" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        /*@import "./hello_style.css"*/
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
-           4% { transform: rotate(14.0deg) }
-           8% { transform: rotate(-8.0deg) }
-           12% { transform: rotate(14.0deg) }
-           16% { transform: rotate(-4.0deg) }
-           20% { transform: rotate(10.0deg) }
-           24% { transform: rotate( 0.0deg) }
+            4% { transform: rotate(14.0deg) }
+            8% { transform: rotate(-8.0deg) }
+          12% { transform: rotate(14.0deg) }
+          16% { transform: rotate(-4.0deg) }
+          20% { transform: rotate(10.0deg) }
+          24% { transform: rotate( 0.0deg) }
           100% { transform: rotate( 0.0deg) }
         }
 
         @keyframes gradient {
-          0% {
+            0% {
             background-position: 0% 50%;
           }
           50% {
@@ -25,21 +26,46 @@
           }
         }
 
+        @keyframes rise {
+          to {
+            margin-top: 48px;
+            margin-bottom: auto;
+          }
+        }
+
+        @keyframes appear {
+          to {
+            visibility: visible;
+          }
+        }
+
+        @keyframes write {
+          from {
+            width: 0;
+            transform: translateX(-242.3px);
+          }
+          to {
+            width: 100%;
+            transform: translateX(0);
+          }
+        }
+
         .container {
           --color-main: #5452ee;
           --color-primary: #e73c7e;
           --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
+          --color-tertiary: #ffffff; /* Assumed original #ffff is equal to #ffffff and standardized it */
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
 
           width: 100%;
-          height: 200px;    /*300px*/
+          height: 300px;
 
           display: flex;
-          justify-content: center;
+          flex-flow: column;
+          justify-content: flex-start;
           align-items: center;
           color: white;
 
@@ -52,9 +78,49 @@
           transform-origin: 70% 70%;
         }
 
+        .centered {
+          display: flex;
+          flex-flow: column;
+          align-items: center;
+          justify-content: flex-start;
+          margin-bottom: 48px;
+          visibility: hidden;
+          animation: appear 0s ease 3s forwards;
+        }
+
+        h1 {
+          /*margin-top: 48px;*/
+          /*margin-bottom: auto;*/
+
+          margin-top: 128.8px;
+          margin-bottom: 128.8px;
+          animation: rise 0.85s ease 2s forwards;
+        }
+
+        h3 {
+          align-self: flex-start;
+          white-space: pre;
+          overflow: hidden;
+          margin-left: auto;
+          margin-right: auto;
+          visibility: inherit;
+          transform: translateX(-242.300px);
+        }
+
+        h3:first-of-type {
+          width: 0;
+          margin-bottom: 12px;
+          animation: write 2s steps(49, end) 3.15s forwards;
+        }
+
+        h3:nth-of-type(2) {
+          width: 0;
+          animation: write 2s steps(37, end) 5.15s forwards;
+        }
+
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #F15BB5;
+            --color-main: #f15bb5;
             --color-primary: #24b0ef;
             --color-secondary: #4526f6;
             --color-tertiary: #f6f645;
@@ -69,11 +135,20 @@
           .hi {
             animation: none;
           }
+
+          h1, .centered, h3, h3:first-of-type, h3:nth-of-type(2) {
+            animation: none;
+          }
         }
+
       </style>
 
       <div class="container">
-        <h1>Hi there, I'm Francesco <div class="hi">👋</div></h1>
+        <h1>Hi there, I'm Francesco! <div class="hi">👋</div></h1>
+        <div class="centered">
+          <h3>👨🏽‍💻  Computer Science &amp; Software Engineering Student</h3>
+          <h3>⚡  Tech enthusiast with a curious mind</h3>
+        </div>
       </div>
     </div>
   </foreignObject>

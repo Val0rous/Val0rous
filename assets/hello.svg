@@ -42,11 +42,11 @@
         @keyframes write {
           from {
             width: 0;
-            transform: translateX(-242.3px);
+            /* transform: translateX(-242.3px); */
           }
           to {
             width: 100%;
-            transform: translateX(0);
+            /* transform: translateX(0); */
           }
         }
 
@@ -101,10 +101,11 @@
           align-self: flex-start;
           white-space: pre;
           overflow: hidden;
-          margin-left: auto;
+          margin-left: 0;
           margin-right: auto;
           visibility: inherit;
-          transform: translateX(-242.300px);
+          justify-self: flex-start;
+          /* transform: translateX(-242.300px); */
         }
 
         h3:first-of-type {

@@ -8,12 +8,14 @@
     <img src="assets/hello.svg" width="100%">
 </div>
 
+<!--
 <h4 align="center">
     Computer Science and Software Engineering Student 👨🏽‍💻
 </h4>
 <h4 align="center">
     Tech enthusiast with a curious mind ⚡
 </h4>
+-->
 
 <br/>
 

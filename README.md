@@ -48,7 +48,9 @@
 
 <br/>
 
+<!--
 🧠 **Currently learning:**  `Cryptography 🔐`  
+-->
 
 💡 **Interested in:**  `Mobile Development 📱` `UX Design 👤` `Data Science 🧪` `Machine Learning & AI 🤖` `Cybersecurity 🔒` `Web Development 🌐`
 
@@ -129,9 +131,9 @@
         <img alt="C" src="https://img.shields.io/badge/C-F5F5F5?style=for-the-badge&logo=c&logoColor=00599C" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=c-sharp&logoColor=512BD4" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp&logoColor=512BD4" height="32" />
-        <img alt="C#" src="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=c-sharp&logoColor=512BD4" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%23-212121?style=for-the-badge&logo=csharp&logoColor=512BD4" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=csharp&logoColor=512BD4" height="32" />
+        <img alt="C#" src="https://img.shields.io/badge/C%23-F5F5F5?style=for-the-badge&logo=csharp&logoColor=512BD4" height="32" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white" height="32" />
@@ -147,6 +149,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Assembly_Script-212121?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Assembly_Script-F5F5F5?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" height="32" />
         <img alt="Assembly-Script" src="https://img.shields.io/badge/Assembly_Script-F5F5F5?style=for-the-badge&logo=assemblyscript&logoColor=007AAC" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LaTeX-212121?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LaTeX-F5F5F5?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
+        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-F5F5F5?style=for-the-badge&logo=latex&logoColor=008080" height="32" />
     </picture>
 </div>
 
@@ -177,6 +184,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NUnit3-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
         <img alt="NUnit3" src="https://img.shields.io/badge/NUnit-F5F5F5?style=for-the-badge&logo=nuget&logoColor=004880" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/PHPUnit-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/PHPUnit-F5F5F5.svg" height="32" />
+        <img alt="PHPUnit" src="assets/PHPUnit-F5F5F5.svg" height="32" />
+    </picture>
 </div>
 
 #### Database
@@ -199,6 +211,20 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHPMyAdmin-212121?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
         <img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-F5F5F5?style=for-the-badge&logo=phpmyadmin&logoColor=6C78AF" height="32" />
+    </picture>
+</div>
+
+#### Design Tools
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Figma-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Figma-F5F5F5.svg" height="32" />
+        <img alt="Figma" src="assets/Figma-F5F5F5.svg" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Balsamiq_Wireframes-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Balsamiq_Wireframes-F5F5F5.svg" height="32" />
+        <img alt="Figma" src="assets/Balsamiq_Wireframes-F5F5F5.svg" height="32" />
     </picture>
 </div>
 
@@ -252,6 +278,8 @@
     -->
 </div>
 
+<!-- &custom_title={word1}+{word2}&text_color={ffffff}&title_color={ffffff}&icon_color={ffffff} -->
+
 ## 🏆 GitHub Trophies
 <div align="center">
     <picture>
@@ -261,7 +289,9 @@
     </picture>
 </div>
 
+<!--
 ---
+-->
 
 <!--
 <div align="center">
@@ -269,7 +299,15 @@
 </div>
 -->
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+<!--
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/Val0rous"/>  
+</div>
+-->
+
+<!--
+[![](https://visitcount.itsvg.in/api?id=Val0rous&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+-->
 
 <!--- light theme: buefy --->
 <!--- dark theme: tokyonight --->

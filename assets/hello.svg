@@ -30,6 +30,7 @@
           to {
             margin-top: 48px;
             margin-bottom: auto;
+            font-size: 32px;
           }
         }
 
@@ -101,9 +102,10 @@
           /*margin-top: 48px;*/
           /*margin-bottom: auto;*/
 
-          margin-top: 128.8px;
-          margin-bottom: 128.8px;
+          margin-top: 123.2px;   /* 128.8px */
+          margin-bottom: 123.2px;
           font-weight: 600;
+          font-size: 40px;  /* 32px */
           animation: rise 0.85s ease 2s forwards;
         }
 

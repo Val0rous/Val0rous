@@ -242,6 +242,11 @@
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" height="32" />
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=181717" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/BitBucket-212121?style=for-the-badge&logo=bitbucket&logoColor=0052CC" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/BitBucket-F5F5F5?style=for-the-badge&logo=bitbucket&logoColor=0052CC" height="32" />
+        <img alt="BitBucket" src="https://img.shields.io/badge/BitBucket-F5F5F5?style=for-the-badge&logo=bitbucket&logoColor=0052CC" height="32" />
+    </picture>
 </div>
 
 ## 📈 GitHub Stats

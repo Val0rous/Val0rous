@@ -191,6 +191,11 @@
         <source media="(prefers-color-scheme: light)" srcset="assets/PHPUnit-F5F5F5.svg" height="32" />
         <img alt="PHPUnit" src="assets/PHPUnit-F5F5F5.svg" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Kendo_Telerik-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Kendo_Telerik-F5F5F5.svg" height="32" />
+        <img alt="Kendo Telerik" src="assets/Kendo_Telerik-F5F5F5.svg" height="32" />
+    </picture>
 </div>
 
 #### Database

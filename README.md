@@ -138,9 +138,9 @@
         <img alt="C#" src="assets/CSharp-F5F5F5.svg" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-212121?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kotlin-F5F5F5?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
-        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-F5F5F5?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Kotlin-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Kotlin-F5F5F5.svg" height="32" />
+        <img alt="Kotlin" src="assets/Kotlin-F5F5F5.svg" height="32" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white" height="32" />

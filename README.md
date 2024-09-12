@@ -202,9 +202,10 @@
         <img alt="Kendo Telerik" src="assets/Kendo_Telerik-F5F5F5.svg" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jetpack_Compose-212121?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
-        <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="assets/Jetpack_Compose-212121.svg" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="assets/Jetpack_Compose-F5F5F5.svg" height="32" />
+        <img alt="Jetpack Compose" src="assets/Jetpack_Compose-F5F5F5.svg" height="32" />
+        <!--<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />-->
     </picture>
 </div>
 

@@ -216,9 +216,9 @@
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Room-212121?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
-        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
-        <img alt="Room" src="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Room-212121?style=for-the-badge&logo=android&logoColor=3DDC84" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=3DDC84" height="32" />
+        <img alt="Room" src="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=3DDC84" height="32" />
     </picture>
 </div>
 

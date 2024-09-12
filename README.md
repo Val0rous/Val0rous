@@ -138,6 +138,11 @@
         <img alt="C#" src="assets/CSharp-F5F5F5.svg" height="32" />
     </picture>
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Kotlin-212121?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Kotlin-F5F5F5?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
+        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-F5F5F5?style=for-the-badge&logo=kotlin&logoColor=7F52FF" height="32" />
+    </picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-212121?style=for-the-badge&logo=markdown&logoColor=white" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
         <img alt="Markdown" src="https://img.shields.io/badge/Markdown-F5F5F5?style=for-the-badge&logo=markdown&logoColor=black" height="32" />
@@ -196,6 +201,11 @@
         <source media="(prefers-color-scheme: light)" srcset="assets/Kendo_Telerik-F5F5F5.svg" height="32" />
         <img alt="Kendo Telerik" src="assets/Kendo_Telerik-F5F5F5.svg" height="32" />
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jetpack_Compose-212121?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
+        <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />
+    </picture>
 </div>
 
 #### Database
@@ -204,6 +214,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
         <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Room-212121?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
+        <img alt="Room" src="https://img.shields.io/badge/Room-F5F5F5?style=for-the-badge&logo=android&logoColor=34A853" height="32" />
     </picture>
 </div>
 

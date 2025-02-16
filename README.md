@@ -207,6 +207,16 @@
         <img alt="Jetpack Compose" src="assets/Jetpack_Compose-F5F5F5.svg" height="32" />
         <!--<img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-F5F5F5?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" height="32" />-->
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue.js-212121?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Vue.js-F5F5F5?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="32" />
+        <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-F5F5F5?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="32" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Leaflet-212121?style=for-the-badge&logo=leaflet&logoColor=199900" height="32" />
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Leaflet-F5F5F5?style=for-the-badge&logo=leaflet&logoColor=199900" height="32" />
+        <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-F5F5F5?style=for-the-badge&logo=leaflet&logoColor=199900" height="32" />
+    </picture>
 </div>
 
 #### Database
